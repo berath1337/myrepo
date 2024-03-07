@@ -1,0 +1,14 @@
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\bin\Debug\net6.0\StudentGroup.exe
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\bin\Debug\net6.0\StudentGroup.deps.json
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\bin\Debug\net6.0\StudentGroup.runtimeconfig.json
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\bin\Debug\net6.0\StudentGroup.dll
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\bin\Debug\net6.0\StudentGroup.pdb
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\obj\Debug\net6.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfo.cs
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\obj\Debug\net6.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\obj\Debug\net6.0\StudentGroup.dll
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\obj\Debug\net6.0\refint\StudentGroup.dll
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\obj\Debug\net6.0\StudentGroup.pdb
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\obj\Debug\net6.0\StudentGroup.genruntimeconfig.cache
+C:\Users\berat\source\repos\Class03\SumOfEven\StudentGroup\obj\Debug\net6.0\ref\StudentGroup.dll
