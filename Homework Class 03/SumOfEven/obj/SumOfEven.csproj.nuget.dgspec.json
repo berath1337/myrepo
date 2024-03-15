@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berat\\source\\repos\\Class03\\SumOfEven\\SumOfEven\\SumOfEven.csproj": {}
+    "C:\\Users\\berat\\source\\repos\\myrepo\\Homework Class 03\\SumOfEven\\SumOfEven.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berat\\source\\repos\\Class03\\SumOfEven\\SumOfEven\\SumOfEven.csproj": {
+    "C:\\Users\\berat\\source\\repos\\myrepo\\Homework Class 03\\SumOfEven\\SumOfEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berat\\source\\repos\\Class03\\SumOfEven\\SumOfEven\\SumOfEven.csproj",
+        "projectUniqueName": "C:\\Users\\berat\\source\\repos\\myrepo\\Homework Class 03\\SumOfEven\\SumOfEven.csproj",
         "projectName": "SumOfEven",
-        "projectPath": "C:\\Users\\berat\\source\\repos\\Class03\\SumOfEven\\SumOfEven\\SumOfEven.csproj",
+        "projectPath": "C:\\Users\\berat\\source\\repos\\myrepo\\Homework Class 03\\SumOfEven\\SumOfEven.csproj",
         "packagesPath": "C:\\Users\\berat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berat\\source\\repos\\Class03\\SumOfEven\\SumOfEven\\obj\\",
+        "outputPath": "C:\\Users\\berat\\source\\repos\\myrepo\\Homework Class 03\\SumOfEven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

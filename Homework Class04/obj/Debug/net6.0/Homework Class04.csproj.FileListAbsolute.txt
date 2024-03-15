@@ -1,0 +1,14 @@
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\obj\Debug\net6.0\Homework Class04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\obj\Debug\net6.0\Homework Class04.AssemblyInfoInputs.cache
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\obj\Debug\net6.0\Homework Class04.AssemblyInfo.cs
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\obj\Debug\net6.0\Homework Class04.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\bin\Debug\net6.0\Homework Class04.exe
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\bin\Debug\net6.0\Homework Class04.deps.json
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\bin\Debug\net6.0\Homework Class04.runtimeconfig.json
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\bin\Debug\net6.0\Homework Class04.dll
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\bin\Debug\net6.0\Homework Class04.pdb
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\obj\Debug\net6.0\Homework Class04.dll
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\obj\Debug\net6.0\refint\Homework Class04.dll
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\obj\Debug\net6.0\Homework Class04.pdb
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\obj\Debug\net6.0\Homework Class04.genruntimeconfig.cache
+C:\Users\berat\source\repos\Class04\Class04\Homework Class04\obj\Debug\net6.0\ref\Homework Class04.dll

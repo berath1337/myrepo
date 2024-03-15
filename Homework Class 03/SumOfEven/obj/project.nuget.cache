@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "e0pXIOf77jsHN8p1QufDZMoySJMFzY1eJz0Zwma/m4Ppk0hSyQzZ+sWmrw+OxxdQv7VS0Xkhh0x7TSfvUedPug==",
+  "dgSpecHash": "3pQOTiLThpyhAxeD7orPZmHNPDqLVgW3dpLFFe1N9vrEef5G7kF4a01k+Qi5FX1NbuUTsWRfLs2qNbtxKi4/uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berat\\source\\repos\\Class03\\SumOfEven\\SumOfEven\\SumOfEven.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\berat\\source\\repos\\myrepo\\Homework Class 03\\SumOfEven\\SumOfEven.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }

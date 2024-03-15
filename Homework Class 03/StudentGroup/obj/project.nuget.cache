@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Aa9xAgjQFSfCjI+1Pc7Zn8enbFM1LcKgQDpLDl7TCX37o81gle615UR1ZL36Go2n1jVJzkq9fA3sAP7klrUmpw==",
+  "dgSpecHash": "LKVtliWn2hIdY0EVIkppoiH8j43Rj0CiVV5D72PTZcQQTgdfaqGamDLJJi3OenXbBZhY2JKvjpuskdAOhqI35A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berat\\source\\repos\\Class03\\SumOfEven\\StudentGroup\\StudentGroup.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\berat\\source\\repos\\myrepo\\Homework Class 03\\StudentGroup\\StudentGroup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
