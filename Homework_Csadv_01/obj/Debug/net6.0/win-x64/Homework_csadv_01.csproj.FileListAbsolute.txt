@@ -1,0 +1,15 @@
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\bin\Debug\net6.0\win-x64\Homework_csadv_01.exe
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\bin\Debug\net6.0\win-x64\Homework_csadv_01.deps.json
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\bin\Debug\net6.0\win-x64\Homework_csadv_01.runtimeconfig.json
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\bin\Debug\net6.0\win-x64\Homework_csadv_01.dll
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\bin\Debug\net6.0\win-x64\Homework_csadv_01.pdb
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\Homework_csadv_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\Homework_csadv_01.AssemblyInfoInputs.cache
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\Homework_csadv_01.AssemblyInfo.cs
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\Homework_csadv_01.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\Homework_csadv_01.sourcelink.json
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\Homework_csadv_01.dll
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\refint\Homework_csadv_01.dll
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\Homework_csadv_01.pdb
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\Homework_csadv_01.genruntimeconfig.cache
+C:\Users\berat\source\repos\myrepo\Homework_Csadv_01\obj\Debug\net6.0\win-x64\ref\Homework_csadv_01.dll

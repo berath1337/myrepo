@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|c:\\users\\berat\\source\\repos\\c# advanced\\homework_csharp_class02\\homework_csharp_class02\\animalkingdom.domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|solutionrelative:animalkingdom.domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|c:\\users\\berat\\source\\repos\\c# advanced\\homework_csharp_class02\\homework_csharp_class02\\animalkingdom.domain\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|solutionrelative:animalkingdom.domain\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|c:\\users\\berat\\source\\repos\\c# advanced\\homework_csharp_class02\\homework_csharp_class02\\animalkingdom.domain\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|solutionrelative:animalkingdom.domain\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|c:\\users\\berat\\source\\repos\\c# advanced\\homework_csharp_class02\\homework_csharp_class02\\animalkingdom.domain\\interfaces\\idog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|solutionrelative:animalkingdom.domain\\interfaces\\idog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|c:\\users\\berat\\source\\repos\\c# advanced\\homework_csharp_class02\\homework_csharp_class02\\animalkingdom.domain\\interfaces\\icat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|solutionrelative:animalkingdom.domain\\interfaces\\icat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|c:\\users\\berat\\source\\repos\\c# advanced\\homework_csharp_class02\\homework_csharp_class02\\animalkingdom.domain\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2590EB74-CBFA-4A7C-BCAD-E5478B0F8A6B}|AnimalKingdom.Domain\\AnimalKingdom.Domain.csproj|solutionrelative:animalkingdom.domain\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "AnimalKingdom.Domain\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Models\\Cat.cs",
+              "RelativeToolTip": "AnimalKingdom.Domain\\Models\\Cat.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:30:00.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICat.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Interfaces\\ICat.cs",
+              "RelativeDocumentMoniker": "AnimalKingdom.Domain\\Interfaces\\ICat.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Interfaces\\ICat.cs",
+              "RelativeToolTip": "AnimalKingdom.Domain\\Interfaces\\ICat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:06:46.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDog.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Interfaces\\IDog.cs",
+              "RelativeDocumentMoniker": "AnimalKingdom.Domain\\Interfaces\\IDog.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Interfaces\\IDog.cs",
+              "RelativeToolTip": "AnimalKingdom.Domain\\Interfaces\\IDog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:05:34.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "AnimalKingdom.Domain\\Interfaces\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "AnimalKingdom.Domain\\Interfaces\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:59:20.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "AnimalKingdom.Domain\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Models\\Animal.cs",
+              "RelativeToolTip": "AnimalKingdom.Domain\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:58:07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "AnimalKingdom.Domain\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\C# Advanced\\Homework_csharp_class02\\Homework_csharp_class02\\AnimalKingdom.Domain\\Models\\Dog.cs",
+              "RelativeToolTip": "AnimalKingdom.Domain\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:51:04.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
