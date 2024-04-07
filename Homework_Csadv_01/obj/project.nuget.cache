@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCb6/PCBNdZWey4QpSeAzVbbwogP+9LyG8PJxxq+ryBhkvxRY/n+2TuLApD7uyZTErSK1pbnn/cMY/8uIANsGg==",
+  "dgSpecHash": "x8xCSsOy7tDfjMflt4ulzl8gV3F4iwfDQWcHiFFKK3dzNecUCbuDBdOfZV2Vh/K/SRkhtpMpCY6rH16jWCNBZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\berat\\source\\repos\\myrepo\\Homework_Csadv_01\\Homework_csadv_01.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\berat\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
-    "C:\\Users\\berat\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

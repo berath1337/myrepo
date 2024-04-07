@@ -1,0 +1,14 @@
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\bin\Debug\net6.0\Program.cs.exe
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\bin\Debug\net6.0\Program.cs.deps.json
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\bin\Debug\net6.0\Program.cs.runtimeconfig.json
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\bin\Debug\net6.0\Program.cs.dll
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\bin\Debug\net6.0\Program.cs.pdb
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\obj\Debug\net6.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\obj\Debug\net6.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\obj\Debug\net6.0\Program.cs.AssemblyInfo.cs
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\obj\Debug\net6.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\obj\Debug\net6.0\Program.cs.dll
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\obj\Debug\net6.0\refint\Program.cs.dll
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\obj\Debug\net6.0\Program.cs.pdb
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\obj\Debug\net6.0\Program.cs.genruntimeconfig.cache
+C:\Users\berat\source\repos\C# Advanced\Homework_csharpadv_04\Program.cs\obj\Debug\net6.0\ref\Program.cs.dll

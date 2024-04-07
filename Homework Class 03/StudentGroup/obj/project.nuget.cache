@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LKVtliWn2hIdY0EVIkppoiH8j43Rj0CiVV5D72PTZcQQTgdfaqGamDLJJi3OenXbBZhY2JKvjpuskdAOhqI35A==",
+  "dgSpecHash": "y6CldD4yNYNoAXnjrvHAmiw4SGRQena2Xc72VyNbMO7RrNVw30kPPOnQDh14FJfvGV5pCc6K99Ot/c89DiVChg==",
   "success": true,
   "projectFilePath": "C:\\Users\\berat\\source\\repos\\myrepo\\Homework Class 03\\StudentGroup\\StudentGroup.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\berat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\berat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\berat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\berat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
